@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwipeToRefreshDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string-array name="names">
+        <item>唐大官</item>
+        <item>孙二官</item>
+        <item>猪八戒</item>
+        <item>沙老弟</item>
+        <item>曹操</item>
+        <item>孙权</item>
+        <item>刘备</item>
+        <item>诸葛亮</item>
+        <item>关云长</item>
+        <item>张飞</item>
+
+    </string-array>
+
+</resources>
