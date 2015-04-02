@@ -1,4 +1,4 @@
-package com.umpay.swipetorefreshdemo;
+package com.rgz.swipetorefreshdemo;
 
 import android.os.Bundle;
 import android.os.Handler;

@@ -1,4 +1,4 @@
-package com.umpay.swipetorefreshdemo;
+package com.rgz.swipetorefreshdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
